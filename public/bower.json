@@ -1,0 +1,24 @@
+{
+  "name": "Cilindros",
+  "version": "0.0.1",
+  "description": "Paquete de frontend para el proyecto Cilindros.",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Ezequiel Suazo"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
